@@ -16,7 +16,7 @@
 /* Box #1 */
 
 .logo-picture {
-  background-image: url("logo5.jpeg");
+  background-image: url("images/logo5.jpeg");
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -154,7 +154,7 @@
 }
 
 .main-photo {
-  background-image: url(main-pic.jpeg);
+  background-image: url(images/main-pic.jpeg);
   background-size: cover;
   height: 300px;
 
@@ -175,7 +175,7 @@
 }
 
 .image {
-  background-image: url("toy.jpg");
+  background-image: url("images/toy.jpg");
   background-size: cover;
 }
 .all-image {
@@ -185,31 +185,31 @@
   margin-left: 20px;
 }
 .image-box2 {
-  background-image: url("pc.jpg");
+  background-image: url("images/pc.jpg");
   background-size: cover;
 }
 .image-box3 {
-  background-image: url("refresh.jpg");
+  background-image: url("images/refresh.jpg");
   background-size: cover;
 }
 .image-box4 {
-  background-image: url("women.jpg");
+  background-image: url("images/women.jpg");
   background-size: cover;
 }
 .image-box5 {
-  background-image: url("gamings.jpg");
+  background-image: url("images/gamings.jpg");
   background-size: cover;
 }
 .image-box6 {
-  background-image: url("shoes.jpg");
+  background-image: url("images/shoes.jpg");
   background-size: cover;
 }
 .image-box7 {
-  background-image: url("laptop.jpg");
+  background-image: url("images/laptop.jpg");
   background-size: cover;
 }
 .image-box8 {
-  background-image: url("smartWatches.jpg");
+  background-image: url("images/smartWatches.jpg");
   background-size: cover;
 }
 
@@ -275,7 +275,7 @@ hr {
   border: 0.1px solid white;
 }
 .footer-part3 .amazon-logo {
-  background-image: url("logo5.jpeg");
+  background-image: url("images/logo5.jpeg");
   background-size: cover;
   height: 50px;
   width: 100px;
